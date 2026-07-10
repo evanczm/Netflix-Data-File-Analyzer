@@ -1,4 +1,4 @@
-# Netflix Data File Analyzer
+# Netflix Data Visor
 
 Un programa en Python que lee tus datos de visualización y facturación de Netflix y te muestra estadísticas interesantes. Creado para CS50P de Harvard.
 
@@ -48,7 +48,3 @@ La carpeta `sample_data/` contiene datos falsos de ejemplo. Probalos con:
 ```bash
 python project.py sample_data
 ```
-
-## Créditos
-
-Creado por Evan como proyecto final de CS50P (Harvard University).

@@ -1,4 +1,4 @@
-# Netflix Data File Analyzer
+# Netflix Data Visor
 
 A Python program that reads your Netflix viewing and billing data and shows you fun stats. Built for CS50P at Harvard.
 
@@ -38,6 +38,12 @@ Or just python project.py and type the path when asked.
 ## Files
 
    project.py — the whole program. Menu, analysis functions, everything.
-   test_project.py — tests for the main functions (to do).
-   requirements.txt — the two libraries needed: pandas and requests.
+   test_project.py — tests for the main functions.
+   requirements.txt — the libraries needed: pandas, requests, and pytest.
 
+## Sample Data
+
+The `sample_data/` folder contains fake example data. Try it out:
+
+```bash
+python project.py sample_data
