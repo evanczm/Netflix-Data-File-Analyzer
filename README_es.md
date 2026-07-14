@@ -2,6 +2,8 @@
 
 ![Netflix Data Visor Demo](demo.gif)
 
+Demonstracion: https://youtu.be/Q6ecN9GK7x8
+
 Un programa en Python que lee tus datos de visualizacion y facturacion de Netflix y te muestra estadisticas interesantes. Creado para CS50P de Harvard.
 
 ## Que Hace
